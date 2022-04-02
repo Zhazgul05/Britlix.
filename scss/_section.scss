@@ -1,0 +1,17 @@
+@import "vars";
+
+.section {
+  padding-top: 146px;
+  display: block;
+
+  &__title {
+    margin-bottom: 27px;
+    padding-left: 29px;
+
+    display: block;
+  }
+  &__text {
+    display: block;
+    padding-left: 29px;
+  }
+}
